@@ -1,16 +1,21 @@
-# flutter_smart_text_input
+# Flutter Smart Text Input
 
-A new Flutter project.
+Flutter Smart Text Input is a reusable widget that provides smart text fields with built-in validations and clean UI.
 
-## Getting Started
+It helps you avoid writing repetitive validation logic for common inputs like email, phone, and password.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Feature Preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Email validation
+- Phone number validation
+- Password field with show/hide toggle
+- Required field validation
+- Minimum length validation
+- Clean Material UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## File Structure
+
